@@ -25,5 +25,4 @@ Desenvolvedor em transição ativa para **Backend (Python)** e **Engenharia de D
 
 ### 📫 Onde me encontrar:
 - 💼 **LinkedIn:** [linkedin.com/in/douglas-spereira](https://www.linkedin.com/in/douglas-spereira)
-- 📧 **E-mail:** [douglas_s_p@yahoo.com.br](mailto:douglas_s_p@yahoo.com.br)
 - 📍 **Localização:** Rio de Janeiro - RJ
